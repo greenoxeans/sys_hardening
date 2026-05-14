@@ -1,0 +1,4 @@
+2026-05-13T20:02:07.760575-07:00 kali sudo: pam_unix(sudo:session): session closed for user root
+2026-05-13T20:02:45.519208-07:00 kali su[195638]: pam_unix(su:session): session closed for user kali3
+2026-05-13T20:05:01.707760-07:00 kali CRON[200704]: pam_unix(cron:session): session closed for user root
+2026-05-13T20:09:01.768120-07:00 kali CRON[202664]: pam_unix(cron:session): session closed for user root
