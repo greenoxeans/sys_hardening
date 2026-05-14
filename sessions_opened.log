@@ -1,0 +1,4 @@
+2026-05-13T19:55:01.677884-07:00 kali CRON[195602]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-13T19:55:07.112560-07:00 kali su[195638]: pam_unix(su:session): session opened for user kali3(uid=1002) by greenoxeans(uid=1000)
+2026-05-13T20:00:01.882885-07:00 kali CRON[198033]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2026-05-13T20:01:47.016954-07:00 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by greenoxeans(uid=0)
